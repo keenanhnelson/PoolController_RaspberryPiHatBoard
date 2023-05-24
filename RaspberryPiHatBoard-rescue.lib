@@ -1,0 +1,281 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Barrel_Jack-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue
+#
+DEF Barrel_Jack-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J 0 40 Y Y 1 F N
+F0 "J" 0 210 50 H V C CNN
+F1 "Barrel_Jack-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue" 0 -175 50 H V C CNN
+F2 "" 50 -40 50 H I C CNN
+F3 "" 50 -40 50 H I C CNN
+DRAW
+A -130 100 25 901 -901 0 1 10 F -130 125 -130 75
+A -130 100 25 901 -901 0 1 10 N -130 125 -130 75
+S 145 125 -130 75 0 1 10 F
+P 2 0 1 10 50 -90 75 -65 N
+P 2 0 1 10 200 100 150 100 N
+P 4 0 1 10 200 0 50 0 50 -90 25 -65 N
+P 6 0 1 10 -150 -100 -100 -100 -50 -50 0 -100 100 -100 200 -100 N
+X ~ 1 300 100 100 L 50 50 1 1 P
+X ~ 2 300 -100 100 L 50 50 1 1 P
+X ~ 3 300 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Conn_01x02-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue
+#
+DEF Conn_01x02-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Conn_01x02-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_??x*mm*
+ Connector*:*1x??x*mm*
+ Pin?Header?Straight?1X*
+ Pin?Header?Angled?1X*
+ Socket?Strip?Straight?1X*
+ Socket?Strip?Angled?1X*
+$ENDFPLIST
+DRAW
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 50 50 -150 1 1 10 f
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+X Pin_2 2 -200 -100 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Conn_01x03-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue
+#
+DEF Conn_01x03-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "Conn_01x03-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_??x*mm*
+ Connector*:*1x??x*mm*
+ Pin?Header?Straight?1X*
+ Pin?Header?Angled?1X*
+ Socket?Strip?Straight?1X*
+ Socket?Strip?Angled?1X*
+$ENDFPLIST
+DRAW
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 105 0 95 1 1 6 N
+S -50 150 50 -150 1 1 10 f
+X Pin_1 1 -200 100 150 R 50 50 1 1 P
+X Pin_2 2 -200 0 150 R 50 50 1 1 P
+X Pin_3 3 -200 -100 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Conn_01x04-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue
+#
+DEF Conn_01x04-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "Conn_01x04-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue" 0 -300 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_??x*mm*
+ Connector*:*1x??x*mm*
+ Pin?Header?Straight?1X*
+ Pin?Header?Angled?1X*
+ Socket?Strip?Straight?1X*
+ Socket?Strip?Angled?1X*
+$ENDFPLIST
+DRAW
+S -50 -195 0 -205 1 1 6 N
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 105 0 95 1 1 6 N
+S -50 150 50 -250 1 1 10 f
+X Pin_1 1 -200 100 150 R 50 50 1 1 P
+X Pin_2 2 -200 0 150 R 50 50 1 1 P
+X Pin_3 3 -200 -100 150 R 50 50 1 1 P
+X Pin_4 4 -200 -200 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# DRV8834LowVoltageStepperMotorDriverCarrier-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue
+#
+DEF DRV8834LowVoltageStepperMotorDriverCarrier-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue U 0 40 Y Y 1 F N
+F0 "U" 0 -700 60 H V C CNN
+F1 "DRV8834LowVoltageStepperMotorDriverCarrier-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue" 50 350 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S -350 250 250 -600 0 1 0 N
+X ~Enable 1 -550 150 200 R 50 50 1 1 I
+X ~FAULT 10 450 -450 200 L 50 50 1 1 I
+X A2 11 450 -350 200 L 50 50 1 1 O
+X A1 12 450 -250 200 L 50 50 1 1 O
+X B1 13 450 -150 200 L 50 50 1 1 O
+X B2 14 450 -50 200 L 50 50 1 1 O
+X GND 15 450 50 200 L 50 50 1 1 W
+X VMOT 18 450 150 200 L 50 50 1 1 W
+X M0 2 -550 50 200 R 50 50 1 1 I
+X M1 3 -550 -50 200 R 50 50 1 1 I
+X Config 4 -550 -150 200 R 50 50 1 1 I
+X VREF 5 -550 -250 200 R 50 50 1 1 I
+X ~SLEEP 6 -550 -350 200 R 50 50 1 1 I
+X Step 7 -550 -450 200 R 50 50 1 1 I
+X DIR 8 -550 -550 200 R 50 50 1 1 I
+X GND 9 450 -550 200 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# Motor_Servo-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue
+#
+DEF Motor_Servo-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue M 0 1 Y Y 1 F N
+F0 "M" -200 175 50 H V L CNN
+F1 "Motor_Servo-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue" -200 -160 50 H V L TNN
+F2 "" 0 -190 50 H I C CNN
+F3 "" 0 -190 50 H I C CNN
+$FPLIST
+ Pin_Headers:Pin_Header_Straight_1x03
+$ENDFPLIST
+DRAW
+A 125 0 76 1132 -1132 0 1 0 N 95 70 95 -70
+A 267 142 37 1173 -273 0 1 0 N 250 175 300 125
+C 125 0 7 0 1 0 N
+C 125 0 56 0 1 0 N
+C 235 110 5 0 1 0 N
+C 255 130 5 0 1 0 N
+C 275 150 5 0 1 0 N
+P 2 0 1 0 95 -70 80 -70 N
+P 2 0 1 0 95 -70 90 -55 N
+P 2 0 1 0 95 70 75 70 N
+P 2 0 1 0 95 70 90 55 N
+P 2 0 1 0 250 175 100 50 N
+P 2 0 1 0 300 125 165 -40 N
+P 5 0 1 10 200 140 -200 140 -200 -140 250 -140 250 60 N
+X PWM 1 -300 100 100 R 50 50 1 1 P
+X + 2 -300 0 100 R 50 50 1 1 P
+X - 3 -300 -100 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RaspberryPi3ModelB_Header-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue
+#
+DEF RaspberryPi3ModelB_Header-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue U 0 40 Y Y 1 F N
+F0 "U" 150 -1650 60 H V C CNN
+F1 "RaspberryPi3ModelB_Header-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue" 150 500 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S -400 400 700 -1600 0 1 0 N
+X 3.3V 1 -600 350 200 R 50 50 1 1 w
+X RxD_wPi16 10 900 -50 200 L 50 50 1 1 B
+X GPIO0 11 -600 -150 200 R 50 50 1 1 B
+X GPIO1 12 900 -150 200 L 50 50 1 1 B
+X GPIO2 13 -600 -250 200 R 50 50 1 1 B
+X GND 14 900 -250 200 L 50 50 1 1 W
+X GPIO3 15 -600 -350 200 R 50 50 1 1 B
+X GPIO4 16 900 -350 200 L 50 50 1 1 B
+X 3.3V 17 -600 -450 200 R 50 50 1 1 w
+X GPIO5 18 900 -450 200 L 50 50 1 1 B
+X MOSI_wPi12 19 -600 -550 200 R 50 50 1 1 W
+X 5V 2 900 350 200 L 50 50 1 1 W
+X GND 20 900 -550 200 L 50 50 1 1 W
+X MISO_wPi13 21 -600 -650 200 R 50 50 1 1 B
+X GPIO6 22 900 -650 200 L 50 50 1 1 B
+X SCLK_wPi14 23 -600 -750 200 R 50 50 1 1 B
+X CE0_wPi10 24 900 -750 200 L 50 50 1 1 B
+X GND 25 -600 -850 200 R 50 50 1 1 W
+X CE1_wPi11 26 900 -850 200 L 50 50 1 1 B
+X SDA0_wPi30 27 -600 -950 200 R 50 50 1 1 B
+X SCL0_wPi31 28 900 -950 200 L 50 50 1 1 B
+X GPIO21 29 -600 -1050 200 R 50 50 1 1 B
+X SDA1_wPi8 3 -600 250 200 R 50 50 1 1 B
+X GND 30 900 -1050 200 L 50 50 1 1 W
+X GPIO22 31 -600 -1150 200 R 50 50 1 1 B
+X GPIO26 32 900 -1150 200 L 50 50 1 1 B
+X GPIO23 33 -600 -1250 200 R 50 50 1 1 B
+X GND 34 900 -1250 200 L 50 50 1 1 W
+X GPIO24 35 -600 -1350 200 R 50 50 1 1 B
+X GPIO27 36 900 -1350 200 L 50 50 1 1 B
+X GPIO25 37 -600 -1450 200 R 50 50 1 1 B
+X GPIO28 38 900 -1450 200 L 50 50 1 1 B
+X GND 39 -600 -1550 200 R 50 50 1 1 W
+X 5V 4 900 250 200 L 50 50 1 1 W
+X GPIO29 40 900 -1550 200 L 50 50 1 1 B
+X SCL1_wPi9 5 -600 150 200 R 50 50 1 1 B
+X GND 6 900 150 200 L 50 50 1 1 W
+X GPIO7 7 -600 50 200 R 50 50 1 1 B
+X TxD_wPi15 8 900 50 200 L 50 50 1 1 B
+X GND 9 -600 -50 200 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# SW_SPDT-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue
+#
+DEF SW_SPDT-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue SW 0 0 Y N 1 F N
+F0 "SW" 0 170 50 H V C CNN
+F1 "SW_SPDT-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C -80 0 20 0 0 0 N
+C 80 -100 20 0 0 0 N
+C 80 100 20 0 1 0 N
+P 2 0 1 0 -60 10 65 90 N
+X A 1 200 100 100 L 50 50 1 1 P
+X B 2 -200 0 100 R 50 50 1 1 P
+X C 3 200 -100 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Stepper_Motor_bipolar-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue
+#
+DEF Stepper_Motor_bipolar-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue M 0 0 Y N 1 F N
+F0 "M" 150 100 50 H V L CNN
+F1 "Stepper_Motor_bipolar-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue" 150 50 50 H V L TNN
+F2 "" 10 -10 50 H I C CNN
+F3 "" 10 -10 50 H I C CNN
+$FPLIST
+ Pin_Headers:Pin_Header_Straight_1x04
+ Connect:bornier4
+ TerminalBlock*4pol
+$ENDFPLIST
+DRAW
+A -175 -75 25 -899 899 0 1 0 N -175 -100 -175 -50
+A -175 -25 25 -899 899 0 1 0 N -175 -50 -175 0
+A -175 25 25 -899 899 0 1 0 N -175 0 -175 50
+A -175 75 25 -899 899 0 1 0 N -175 50 -175 100
+A -75 175 25 -1799 -1 0 1 0 N -100 175 -50 175
+A -25 175 25 -1799 -1 0 1 0 N -50 175 0 175
+A 25 175 25 -1799 -1 0 1 0 N 0 175 50 175
+A 75 175 25 -1799 -1 0 1 0 N 50 175 100 175
+C 0 0 128 0 1 10 N
+P 5 0 0 0 -50 -70 -50 80 0 -20 50 80 50 -70 N
+P 2 0 1 0 -200 -100 -175 -100 N
+P 2 0 1 0 -200 100 -175 100 N
+P 2 0 1 0 -100 200 -100 175 N
+P 2 0 1 0 100 200 100 175 N
+X ~ 1 -100 300 100 D 50 50 1 1 P
+X - 2 100 300 100 D 50 50 1 1 P
+X ~ 3 -300 100 100 R 50 50 1 1 P
+X ~ 4 -300 -100 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# U3V12F9_StepUpVoltageRegulator-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue
+#
+DEF U3V12F9_StepUpVoltageRegulator-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue U 0 40 Y Y 1 F N
+F0 "U" -150 -200 60 H V C CNN
+F1 "U3V12F9_StepUpVoltageRegulator-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue" 0 300 60 H V C CNN
+F2 "" -300 50 60 H I C CNN
+F3 "" -300 50 60 H I C CNN
+DRAW
+S -250 200 0 -100 0 1 0 N
+X VIN 1 -450 150 200 R 50 50 1 1 W
+X GND 2 -450 50 200 R 50 50 1 1 W
+X VOUT 3 -450 -50 200 R 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+#End Library

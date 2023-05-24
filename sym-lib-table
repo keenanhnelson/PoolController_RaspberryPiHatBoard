@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name RaspberryPiHatBoard-rescue)(type Legacy)(uri ${KIPRJMOD}/RaspberryPiHatBoard-rescue.lib)(options "")(descr ""))
+  (lib (name LibraryRaspberryPiHatBoard)(type Legacy)(uri ${KIPRJMOD}/LibraryRaspberryPiHatBoard.lib)(options "")(descr ""))
+)
