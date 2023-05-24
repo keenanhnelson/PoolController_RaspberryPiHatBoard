@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L RaspberryPiHatBoard-rescue:RaspberryPi3ModelB_Header-LibraryRaspberryPiHatBoard U?
+L RaspberryPiHatBoard-rescue:RaspberryPi3ModelB_Header-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue U?
 U 1 1 5AC0119C
 P 4750 3200
 F 0 "U?" H 4900 1550 60  0000 C CNN
@@ -25,7 +25,7 @@ F 3 "" H 4750 3200 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:DRV8834LowVoltageStepperMotorDriverCarrier-LibraryRaspberryPiHatBoard U?
+L RaspberryPiHatBoard-rescue:DRV8834LowVoltageStepperMotorDriverCarrier-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue U?
 U 1 1 5AC01725
 P 2350 2450
 F 0 "U?" H 2350 1750 60  0000 C CNN
@@ -36,7 +36,7 @@ F 3 "" H 2350 2450 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:U3V12F9_StepUpVoltageRegulator-LibraryRaspberryPiHatBoard U?
+L RaspberryPiHatBoard-rescue:U3V12F9_StepUpVoltageRegulator-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue U?
 U 1 1 5AC0187C
 P 6200 2100
 F 0 "U?" H 6050 1900 60  0000 C CNN
@@ -47,7 +47,7 @@ F 3 "" H 5900 2150 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:DRV8834LowVoltageStepperMotorDriverCarrier-LibraryRaspberryPiHatBoard U?
+L RaspberryPiHatBoard-rescue:DRV8834LowVoltageStepperMotorDriverCarrier-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue U?
 U 1 1 5AC01A07
 P 2400 4150
 F 0 "U?" H 2400 3450 60  0000 C CNN
@@ -58,7 +58,7 @@ F 3 "" H 2400 4150 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Stepper_Motor_bipolar-RaspberryPiHatBoard-rescue M?
+L RaspberryPiHatBoard-rescue:Stepper_Motor_bipolar-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue M?
 U 1 1 5AC01D57
 P 9950 6300
 F 0 "M?" H 10100 6400 50  0000 L CNN
@@ -69,7 +69,7 @@ F 3 "" H 9960 6290 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Motor_Servo-RaspberryPiHatBoard-rescue M?
+L RaspberryPiHatBoard-rescue:Motor_Servo-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue M?
 U 1 1 5AC021C8
 P 10200 2150
 F 0 "M?" H 10000 2325 50  0000 L CNN
@@ -80,7 +80,7 @@ F 3 "" H 10200 1960 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC02379
 P 2800 5850
 F 0 "J?" H 2800 5950 50  0000 C CNN
@@ -91,7 +91,7 @@ F 3 "" H 2800 5850 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Barrel_Jack-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Barrel_Jack-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC04043
 P 4900 2050
 F 0 "J?" H 4900 2260 50  0000 C CNN
@@ -102,7 +102,7 @@ F 3 "" H 4950 2010 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC04DE1
 P 3250 5850
 F 0 "J?" H 3250 5950 50  0000 C CNN
@@ -113,7 +113,7 @@ F 3 "" H 3250 5850 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC04EAB
 P 3700 5850
 F 0 "J?" H 3700 5950 50  0000 C CNN
@@ -124,7 +124,7 @@ F 3 "" H 3700 5850 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x03-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x03-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC04EE9
 P 4150 5850
 F 0 "J?" H 4150 6050 50  0000 C CNN
@@ -135,7 +135,7 @@ F 3 "" H 4150 5850 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC050AB
 P 8750 700
 F 0 "J?" H 8750 800 50  0000 C CNN
@@ -146,7 +146,7 @@ F 3 "" H 8750 700 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC050F6
 P 8750 1650
 F 0 "J?" H 8750 1750 50  0000 C CNN
@@ -157,7 +157,7 @@ F 3 "" H 8750 1650 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x03-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x03-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC0514E
 P 8750 2150
 F 0 "J?" H 8750 2350 50  0000 C CNN
@@ -178,7 +178,7 @@ Servo
 Text Notes 4650 6100 0    60   ~ 0
 LED
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x04-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x04-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC07694
 P 3350 4300
 F 0 "J?" H 3350 4500 50  0000 C CNN
@@ -189,7 +189,7 @@ F 3 "" H 3350 4300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x04-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x04-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC07AB4
 P 3300 2600
 F 0 "J?" H 3300 2800 50  0000 C CNN
@@ -200,7 +200,7 @@ F 3 "" H 3300 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x04-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x04-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC08034
 P 8750 6100
 F 0 "J?" H 8750 6300 50  0000 C CNN
@@ -211,7 +211,7 @@ F 3 "" H 8750 6100 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x04-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x04-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC08673
 P 8750 5450
 F 0 "J?" H 8750 5650 50  0000 C CNN
@@ -304,7 +304,7 @@ NoConn ~ 1800 2300
 NoConn ~ 1800 2600
 NoConn ~ 1800 2700
 $Comp
-L RaspberryPiHatBoard-rescue:SW_SPDT-RaspberryPiHatBoard-rescue SW?
+L RaspberryPiHatBoard-rescue:SW_SPDT-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue SW?
 U 1 1 5AC1DA8E
 P 9700 700
 F 0 "SW?" H 9700 870 50  0000 C CNN
@@ -458,7 +458,7 @@ F 3 "" H 3000 5950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC25BB6
 P 8750 1200
 F 0 "J?" H 8750 1300 50  0000 C CNN
@@ -469,7 +469,7 @@ F 3 "" H 8750 1200 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:SW_SPDT-RaspberryPiHatBoard-rescue SW?
+L RaspberryPiHatBoard-rescue:SW_SPDT-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue SW?
 U 1 1 5AC25BBC
 P 9700 1200
 F 0 "SW?" H 9700 1370 50  0000 C CNN
@@ -659,7 +659,7 @@ Wire Wire Line
 Wire Wire Line
 	1700 2900 1800 2900
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC3018B
 P 6050 5850
 F 0 "J?" H 6050 5950 50  0000 C CNN
@@ -692,7 +692,7 @@ F 3 "" H 6250 5850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5AC34DBD
 P 8750 4900
 F 0 "J?" H 8750 5000 50  0000 C CNN
@@ -832,7 +832,7 @@ FB_A1
 Text Label 9000 5650 0    60   ~ 0
 FB_A2
 $Comp
-L RaspberryPiHatBoard-rescue:Stepper_Motor_bipolar-RaspberryPiHatBoard-rescue M?
+L RaspberryPiHatBoard-rescue:Stepper_Motor_bipolar-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue M?
 U 1 1 5AC01EAA
 P 9950 5650
 F 0 "M?" H 10100 5750 50  0000 L CNN
@@ -893,7 +893,7 @@ FB_S
 Text Notes 1400 6900 0    60   ~ 0
 Legend\nFB = Stepper that controls Forward Backward movement\nRL = Stepper that controls Right Left Movement\n
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x02-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5B6EA752
 P 6600 5850
 F 0 "J?" H 6600 5950 50  0000 C CNN
@@ -1128,7 +1128,7 @@ F 3 "" H 9750 4650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x03-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x03-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5BFD601E
 P 8750 2850
 F 0 "J?" H 8750 3050 50  0000 C CNN
@@ -1139,7 +1139,7 @@ F 3 "" H 8750 2850 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L RaspberryPiHatBoard-rescue:Conn_01x03-RaspberryPiHatBoard-rescue J?
+L RaspberryPiHatBoard-rescue:Conn_01x03-RaspberryPiHatBoard-rescue-RaspberryPiHatBoard-rescue J?
 U 1 1 5C0C069E
 P 4700 5850
 F 0 "J?" H 4700 6050 50  0000 C CNN

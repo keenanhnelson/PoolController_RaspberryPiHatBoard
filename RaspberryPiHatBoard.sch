@@ -14,17 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L RaspberryPiHatBoard-rescue:RaspberryPi3ModelB_Header-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue U?
-U 1 1 5AC0119C
-P 4750 3200
-F 0 "U?" H 4900 1550 60  0000 C CNN
-F 1 "RaspberryPi3ModelB_Header" H 4900 3700 60  0000 C CNN
-F 2 "" H 4750 3200 60  0001 C CNN
-F 3 "" H 4750 3200 60  0001 C CNN
-	1    4750 3200
-	1    0    0    -1  
-$EndComp
-$Comp
 L RaspberryPiHatBoard-rescue:DRV8834LowVoltageStepperMotorDriverCarrier-LibraryRaspberryPiHatBoard-RaspberryPiHatBoard-rescue U?
 U 1 1 5AC01725
 P 2350 2450
@@ -1257,4 +1246,15 @@ Wire Wire Line
 Connection ~ 9300 4350
 Wire Wire Line
 	9300 4350 9300 4650
+$Comp
+L LibraryRaspberryPiHatBoard:RaspberryPi3ModelB_Header U?
+U 1 1 646EC029
+P 4750 3200
+F 0 "U?" H 4900 3797 60  0000 C CNN
+F 1 "RaspberryPi3ModelB_Header" H 4900 3691 60  0000 C CNN
+F 2 "" H 4750 3200 60  0001 C CNN
+F 3 "" H 4750 3200 60  0001 C CNN
+	1    4750 3200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
